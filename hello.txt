@@ -15,3 +15,4 @@ hello git hello wanlei cold-fix test
 111111
 222222 by gitclonedemo modify
 333333 by gitdemo modify
+test ssh-isa push by wanlei
